@@ -1,11 +1,10 @@
 ---
 layout: posts
-title:  "Key Metrics for Evaluating the Business Value of AI Applications"
+title:  "How Much Can You Really Save? Key Metrics for Evaluating the Business Value of AI Applications"
 date: 2024-11-15 12:00:00 +0000
 categories: Productivity
 tags: GenAI Productivity
 ---
-# How Much Can You Really Save? Key Metrics for Evaluating the Business Value of AI Applications
 
 We are in the midst of a new wave of innovation driven by artificial intelligence (AI) applications. This trend promises to significantly accelerate automation, boost productivity, spark innovation, and improve both the quality of work and the experiences of employees and customers. However, companies that fail to act and adapt in time may find themselves left far behind.
 
