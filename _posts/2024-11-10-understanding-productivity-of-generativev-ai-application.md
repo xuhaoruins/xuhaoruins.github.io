@@ -20,7 +20,7 @@ The first dimension is the intelligence or, more precisely, the cognitive capaci
 
 The second dimension focuses on the degree of automation within applications. Here, productivity is quantified by the ability of AI to streamline workflows, automate repetitive tasks, and significantly reduce the time invested in time-consuming processes. This dimension underscores the practical implications of AI in everyday operations, highlighting how the integration of intelligent systems can lead to more efficient use of resources, freeing human creativity for more complex and innovative endeavors.
 
-![GenAI App Productivity](https://raw.githubusercontent.com/xuhaoruins/xuhaoruins.github.io/refs/heads/main/assets/3levelproductivity.png)
+![GenAI App Productivity](/assets/3levelproductivity.png)
 
 ### The Hierarchy of Generative AI Intelligent Applications
 
