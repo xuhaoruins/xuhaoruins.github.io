@@ -20,7 +20,7 @@ The first dimension is the intelligence or, more precisely, the cognitive capaci
 
 The second dimension focuses on the degree of automation within applications. Here, productivity is quantified by the ability of AI to streamline workflows, automate repetitive tasks, and significantly reduce the time invested in time-consuming processes. This dimension underscores the practical implications of AI in everyday operations, highlighting how the integration of intelligent systems can lead to more efficient use of resources, freeing human creativity for more complex and innovative endeavors.
 
-![GenAI App Productivity](/assets/3levelproductivity.png)
+![GenAI App Productivity](/assets/images/3levelproductivity.png) 
 
 ### The Hierarchy of Generative AI Intelligent Applications
 
@@ -72,7 +72,7 @@ In essence, the journey towards AI-powered business transformation is marked by 
 
 The phrase "workloads pull-through with Azure full-stack" implies a holistic approach to cloud services, providing a seamless integration of backend and frontend services that transcend mere API calls. Azure's full-stack capabilities allow for a comprehensive suite of services that not only respond to requests but anticipate needs and enable greater functionality.
 
-![AI App Arch](https://raw.githubusercontent.com/xuhaoruins/xuhaoruins.github.io/refs/heads/main/assets/aiapparch.png)
+![AI App Arch](assets/images/aiapparch.png)
 
 ### Copilot Stack: The Grounding Force
 
