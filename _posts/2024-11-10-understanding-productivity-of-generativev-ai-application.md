@@ -72,7 +72,7 @@ In essence, the journey towards AI-powered business transformation is marked by 
 
 The phrase "workloads pull-through with Azure full-stack" implies a holistic approach to cloud services, providing a seamless integration of backend and frontend services that transcend mere API calls. Azure's full-stack capabilities allow for a comprehensive suite of services that not only respond to requests but anticipate needs and enable greater functionality.
 
-![AI App Arch](assets/images/aiapparch.png)
+![AI App Arch](/assets/images/aiapparch.png)
 
 ### Copilot Stack: The Grounding Force
 
