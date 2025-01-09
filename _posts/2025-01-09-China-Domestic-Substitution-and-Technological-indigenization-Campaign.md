@@ -1,4 +1,3 @@
-
 ---
 layout: posts
 title:  "China Domestic Substitution and Technological Indigenization Campaign"
