@@ -69,9 +69,9 @@ Estimating GPU demand for large language models (LLMs) requires a detailed under
 ## Formula for GPU Memory Estimation
 
 A key step in estimating GPU demand is calculating the memory requirements for both inference and training.
-$$
-\text{Total Memory} = \text{Model Size} + \text{KV Cache} + \text{Activations} + (\text{Optimizer States} + \text{Gradients}) \times \text{Number of Trainable Parameters}
-$$
+
+### Total Memory=Model Size+KV Cache+Activations+(Optimizer States+Gradients)×Number of Trainable Parameters
+
 This formula accounts for the memory required to store model weights, key-value (KV) caches, and intermediate activations. During training, additional memory is needed for optimizer states and gradient calculations. For example, training a model like LLaMA-13B requires not only memory for the parameters but also additional resources for the KV cache and other overheads[1][2].
 
 ## Factors Influencing GPU Demand
